@@ -1,6 +1,6 @@
 # test_flutter_7
 
-A new Flutter project.
+<img width="937" alt="截屏2022-07-06 10 39 20" src="https://user-images.githubusercontent.com/38312620/177469173-6505eb1d-e05c-4f11-a0c8-95c37a0f1a0b.png">
 
 ## Getting Started
 
